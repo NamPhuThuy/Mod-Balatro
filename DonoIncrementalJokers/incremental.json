@@ -1,0 +1,14 @@
+{
+	"id": "d_incremental",
+	"name": "Incremental Jokers",
+	"author": ["Donovanth1"],
+	"description": "Dynamically adds 25 Incremental XMult Jokers. Meant to be cheaty.",
+	"prefix": "incr",
+	"main_file": "incremental.lua",
+	"priority": 0,
+	"version": "0.1",
+	"dependencies": [
+        "Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+    ]
+}
