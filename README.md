@@ -36,3 +36,16 @@ Sau này, bạn cũng sẽ sao chép tất cả các mod khác của mình vào 
 - Làm tương tự với bất kì bản mod Balatro nào khác
 
 - Trong game, nhấp vào nút "Mods" màu tím và chọn/bỏ chọn các mod bạn muốn chạy 
+
+# Một số bản mod đang có và những nguồn khác
+
+
+## Features
+- AchievementEnabler: allow achievements to be unlocked in any mode (seeded run, challenges, etc.)
+- EscapeExitButton: add an exit button to the escape menu when playing
+- MoreSpeeds: grant more speed options
+
+
+## Jokers
+- Jhin: When exactly 4 cards are played, Retrigger each scored 4, 4 times.
+- 
